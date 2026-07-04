@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/techieomm/LEETCODE-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0367-valid-perfect-square](https://github.com/techieomm/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/techieomm/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/techieomm/LEETCODE-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/techieomm/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
