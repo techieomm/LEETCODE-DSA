@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/techieomm/LEETCODE-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/techieomm/LEETCODE-DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/techieomm/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/techieomm/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/techieomm/LEETCODE-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1664-ways-to-make-a-fair-array](https://github.com/techieomm/LEETCODE-DSA/tree/master/1664-ways-to-make-a-fair-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/techieomm/LEETCODE-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
